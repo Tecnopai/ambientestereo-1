@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066048466784",
+    "project_id": "ambiente-3a564",
+    "storage_bucket": "ambiente-3a564.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066048466784:android:3fc4bbed508a11a46d7805",
+        "android_client_info": {
+          "package_name": "fm.ambientestereo.ambiente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066048466784-cpauv9t1tt7ptp81qbop85g40ajgv1nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAkCcGy10ltW_wN_Y-4gDVp5FxIMuBlK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066048466784-cpauv9t1tt7ptp81qbop85g40ajgv1nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
